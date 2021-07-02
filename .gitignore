@@ -280,3 +280,4 @@ emarket/media/
 .env
 .envs/*
 !.envs/.local/
+env/*
