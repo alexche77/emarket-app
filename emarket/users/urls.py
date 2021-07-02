@@ -5,6 +5,7 @@ from emarket.users.views import (
     user_redirect_view,
     user_update_view,
 )
+from rest_framework.authtoken import views
 
 app_name = "users"
 urlpatterns = [
